@@ -5,6 +5,9 @@
 
 This project analyzes customer behavior on the Starbucks rewards mobile app. Starbucks frequently sends promotional offers to users, and the goal is to determine which demographic groups respond best to different types of offers. The analysis leverages machine learning techniques to predict user behavior and optimize promotional strategies.
 
+**Also, you check out the short blog on inferences made, on how Starbucks is helping women stay one step ahead:**
+https://medium.com/@arshad.haque555/how-starbucks-is-empowering-women-in-the-professional-world-556227b398a5
+
 ``Dataset``
 
 The dataset consists of three JSON files:
